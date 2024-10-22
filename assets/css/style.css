@@ -2997,7 +2997,7 @@ input[type=color] {
   margin-left: 80px;
   margin-right: 80px;
   padding: 0px 35px;
-  margin-top: 50px;
+  margin-top: 20px;
   border-radius: 10px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
